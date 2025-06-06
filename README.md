@@ -35,16 +35,6 @@ This project explores regime shifts and systemic fragility in the U.S. banking s
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `MarketRegimeUSBanks.ipynb` | Full project notebook with code, charts, and markdown commentary |
-| `MarketRegimeUSBanks.pdf` | Exported PDF version for non-technical reviewers |
-| `fragility_chart.png` | Sample fragility score output showing early warning periods |
-
----
-
 ## Insights and Takeaways
 
 - Crisis regimes are clearly distinguishable using unsupervised learning on engineered features.
